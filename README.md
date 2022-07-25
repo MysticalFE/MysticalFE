@@ -1,4 +1,5 @@
 ### Hi there 👋
+![MysticalFE - github stats](https://github-readme-stats.vercel.app/api?username=MysticalFE&show_icons=true)
 
 <!--
 **MysticalFE/MysticalFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
